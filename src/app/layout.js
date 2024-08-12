@@ -4,7 +4,7 @@ import { Footer, Header } from "@/components";
 const nunito = Nunito({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Appscript_Richa",
+  title: "Appscrip_Richa",
   description: "ecommerce website",
 };
 
